@@ -18,7 +18,7 @@ echo " instagram Adresime Yönlendiriliyorsunuz...! "
 
 
 printf/ /b/b/b/b
-(Code) https://www.instagram.com/_jus4tlove_
+echo  " (Code)  https://www.instagram.com/_jus4tlove_ "
 
 }
 
