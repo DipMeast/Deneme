@@ -1,8 +1,9 @@
 #!/bin/bash
+{
 
-
-start(){
+start()
 
 	echo "Selam"
 
+}
 
