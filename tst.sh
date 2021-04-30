@@ -1,6 +1,8 @@
 #!/bin/bash
 {
+
 clear
+
 +---------------------------*/
 ..........Dipmeast...........
 +---------------------------*/
@@ -11,14 +13,9 @@ local delay=0.25
 local spinner=( '█■■■■' '■█■■■' '■■█■■' '■■■█■' '■■■■█' )
 
 
-
-
 echo " instagram Adresime Yönlendiriliyorsunuz...! "
-
-
-
-printf/ /b/b/b/b
 echo  " (Code)  https://www.instagram.com/_jus4tlove_ "
 
 }
 
+}
