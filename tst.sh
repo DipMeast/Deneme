@@ -1,15 +1,5 @@
 #!/bin/bash
-{
 
-clear
-
-}
-{
-echo \+---------------------------+/
-echo   ........Dipmeast...........
-echo \+---------------------------+/
-
-}
 
 spin () {
 
@@ -33,11 +23,23 @@ printf "\e[1;33m [Done]\e[0m";
 echo "";
 
 }
+{
 
 echo " instagram Adresime Yönlendiriliyorsunuz...! "
 echo  " (Code)  https://www.instagram.com/_jus4tlove_ "
 
+}
+
+
+{
+
+clear
 
 
 
+echo \+---------------------------+/
+echo   ........Dipmeast...........
+echo \+---------------------------+/
+
+}
 
