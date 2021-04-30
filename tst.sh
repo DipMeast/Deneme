@@ -1,12 +1,24 @@
 #!/bin/bash
 {
+clear
++---------------------------*/
+..........Dipmeast...........
++---------------------------*/
+spin () {
+
+local pid=$!
+local delay=0.25
+local spinner=( '█■■■■' '■█■■■' '■■█■■' '■■■█■' '■■■■█' )
+
+
+
+
 echo " instagram Adresime Yönlendiriliyorsunuz...! "
 
 
 
-
-
-termux-open-url https://www.instagram.com/_jus4tlove_
+printf/ /b/b/b/b
+(Code) https://www.instagram.com/_jus4tlove_
 
 }
 
