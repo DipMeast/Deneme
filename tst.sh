@@ -125,19 +125,7 @@ else
 apt install php -y 
 clear
 cd Lib/
-echo "Bu Tool YamanEfkar Tarafından Kodlandı...." >> ok.txt
+echo "Bu Tool DipMeast Tarafından Kodlandı...." >> ok.txt
 cd ..
 bash tst.sh	
 fi
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
