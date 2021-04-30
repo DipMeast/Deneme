@@ -3,7 +3,7 @@
 
 start()
 
-	echo "Selam"
+echo "Selam"
 
 }
 
