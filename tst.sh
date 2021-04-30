@@ -34,8 +34,6 @@ echo "";
 
 }
 
-color 
-
 echo " instagram Adresime Yönlendiriliyorsunuz...! "
 echo  " (Code)  https://www.instagram.com/_jus4tlove_ "
 
